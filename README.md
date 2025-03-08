@@ -1,2 +1,2 @@
 # R-Trafo-Omur-Tahmini
-Bu raporda, trafo ömrü tahminlerinin doğruluğunu değerlendirmek için yapılan analizleri yorumlayacağız.
+R programalam dili ile trafo ömrü tahminleme yapacağız.
