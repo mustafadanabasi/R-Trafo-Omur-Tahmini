@@ -1,2 +1,2 @@
 # R-Trafo-Omur-Tahmini
-R programalam dili ile trafo ömrü tahminleme yapacağız.
+R programlama dili ile verileri analiz etme ve trafo ömrü tahminleme
